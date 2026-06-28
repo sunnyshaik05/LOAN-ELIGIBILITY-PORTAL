@@ -17,7 +17,7 @@ function LoanForm() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post("http://localhost:5000/api/apply", {
+      const response = await axios.post("https://loan-eligibility-portal.onrender.com/api/apply", {
         name,
         age,
         email,
