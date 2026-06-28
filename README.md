@@ -25,4 +25,4 @@ A full-stack web application that checks whether a user is eligible for a loan b
 - MongoDB
 - Mongoose
 
-## 📂 Project Structure
+
